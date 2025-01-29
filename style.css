@@ -1,0 +1,16 @@
+/* style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.stButton button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.stButton button:hover {
+    background-color: #0056b3;
+}
